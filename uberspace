@@ -1,4 +1,4 @@
-Subnet=10.126.255.2/32
+Subnet=10.126.0.2/32
 Address=95.143.172.233 655
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAvcZrLrbxqzeIF0RMbuZJjgWjNZdxFPj+vvq3q6EVBAUejrzhmUPO
